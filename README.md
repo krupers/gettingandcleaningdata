@@ -1,4 +1,5 @@
 Getting and Cleaning Data
+=========================
 
 ## Course Project
 * Download source as a zip from:
